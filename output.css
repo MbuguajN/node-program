@@ -558,18 +558,6 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.static {
-  position: static;
-}
-
-.right-6 {
-  right: 1.5rem;
-}
-
-.left-7 {
-  left: 1.75rem;
-}
-
 .m-3 {
   margin: 0.75rem;
 }
@@ -585,10 +573,6 @@ video {
 .bg-blue-400 {
   --tw-bg-opacity: 1;
   background-color: rgb(96 165 250 / var(--tw-bg-opacity));
-}
-
-.p-4 {
-  padding: 1rem;
 }
 
 .p-1 {
